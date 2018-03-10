@@ -4,5 +4,5 @@
 
 ### A megfelelő adatbevitelhez tekintsd meg a helpet:
 ```
-java Kivonas -help
+java Kerulet -help
 ```
